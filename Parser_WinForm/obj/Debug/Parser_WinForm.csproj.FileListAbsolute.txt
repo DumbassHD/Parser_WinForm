@@ -1,0 +1,12 @@
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\Parser_WinForm\Parser_WinForm\obj\Debug\Parser_WinForm.csprojAssemblyReference.cache
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\Parser_WinForm\Parser_WinForm\obj\Debug\Parser_WinForm.Properties.Resources.resources
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\Parser_WinForm\Parser_WinForm\obj\Debug\Parser_WinForm.csproj.GenerateResource.cache
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\Parser_WinForm\Parser_WinForm\obj\Debug\Parser_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\Parser_WinForm\Parser_WinForm\obj\Debug\Parser_WinForm.Form1.resources
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\Parser_WinForm\Parser_WinForm\bin\Debug\Parser_WinForm.exe.config
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\Parser_WinForm\Parser_WinForm\bin\Debug\Parser_WinForm.exe
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\Parser_WinForm\Parser_WinForm\bin\Debug\Parser_WinForm.pdb
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\Parser_WinForm\Parser_WinForm\bin\Debug\xNet.dll
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\Parser_WinForm\Parser_WinForm\obj\Debug\Parser_WinForm.csproj.CopyComplete
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\Parser_WinForm\Parser_WinForm\obj\Debug\Parser_WinForm.exe
+C:\Users\babi4\OneDrive\Рабочий стол\Projects\Новая папка\Parser_WinForm\Parser_WinForm\obj\Debug\Parser_WinForm.pdb
